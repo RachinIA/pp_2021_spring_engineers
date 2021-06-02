@@ -1,7 +1,6 @@
 // Copyright 2018 Nesterov Alexander
 #include <gtest/gtest.h>
 #include <vector>
-#include <tbb/tbb.h>
 #include "./lin_hist_stret.h"
 
 TEST(Parallel_Operations_TBB, Test_random_matrix_with_negative_size) {
